@@ -1,3 +1,4 @@
+# Hi! I'm Sean!
 - 👋 Hi, my name is Sean Adrian Lythio, you can call me Sean
 - ⚡ I'm a Civil Engineering fresh graduate from Tarumanagara University
 - 👀 I’m interested in Project Management and anything about data processing 
